@@ -42,7 +42,7 @@ GreenLoop is a web-based recycling management system designed to encourage and t
 ### Installation
 1. Clone the repository:
 ```bash
-git clone [https://github.com/ofarooq21/GreenLoop-Web-Application.git]
+git clone https://github.com/ofarooq21/GreenLoop-Web-Application.git
 ```
 
 2. Open `index.html` in your web browser to start using the application.
